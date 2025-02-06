@@ -1,3 +1,6 @@
+echo "test";
+exit();
+
 <?php
 // Memulai sesi jika belum dimulai
 if (session_status() === PHP_SESSION_NONE) {
