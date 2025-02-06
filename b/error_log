@@ -1,0 +1,224 @@
+[01-Jan-2025 13:11:36 Asia/Jakarta] PHP Fatal error:  Paletter image not supported by webp in /home/bebp2811/public_html/klinik.bebascedera.com/b/product-add.php on line 91
+[01-Jan-2025 13:11:40 Asia/Jakarta] PHP Fatal error:  Paletter image not supported by webp in /home/bebp2811/public_html/klinik.bebascedera.com/b/product-add.php on line 91
+[01-Jan-2025 13:13:10 Asia/Jakarta] PHP Fatal error:  Paletter image not supported by webp in /home/bebp2811/public_html/klinik.bebascedera.com/b/product-add.php on line 91
+[01-Jan-2025 13:16:53 Asia/Jakarta] PHP Fatal error:  Paletter image not supported by webp in /home/bebp2811/public_html/klinik.bebascedera.com/b/product-add.php on line 91
+[01-Jan-2025 13:17:48 Asia/Jakarta] PHP Fatal error:  Paletter image not supported by webp in /home/bebp2811/public_html/klinik.bebascedera.com/b/product-add.php on line 95
+[01-Jan-2025 13:19:46 Asia/Jakarta] PHP Fatal error:  Paletter image not supported by webp in /home/bebp2811/public_html/klinik.bebascedera.com/b/product-add.php on line 95
+[01-Jan-2025 13:29:50 Asia/Jakarta] PHP Fatal error:  Paletter image not supported by webp in /home/bebp2811/public_html/klinik.bebascedera.com/b/product-add.php on line 92
+[01-Jan-2025 13:31:20 Asia/Jakarta] PHP Fatal error:  Paletter image not supported by webp in /home/bebp2811/public_html/klinik.bebascedera.com/b/product-add.php on line 94
+[01-Jan-2025 13:36:18 Asia/Jakarta] PHP Warning:  imagewebp(): Palette image not supported by webp in /home/bebp2811/public_html/klinik.bebascedera.com/b/product-add.php on line 94
+[01-Jan-2025 13:38:02 Asia/Jakarta] PHP Warning:  imagewebp(): Palette image not supported by webp in /home/bebp2811/public_html/klinik.bebascedera.com/b/product-add.php on line 91
+[01-Jan-2025 15:37:57 Asia/Jakarta] Gagal mengirim email: Mailer Error: SMTP Error: Could not connect to SMTP host.
+[02-Jan-2025 07:00:03 Asia/Jakarta] PHP Warning:  imagewebp(): Palette image not supported by webp in /home/bebp2811/public_html/klinik.bebascedera.com/b/expense-add.php on line 103
+[02-Jan-2025 07:14:59 Asia/Jakarta] PHP Warning:  imagewebp(): Palette image not supported by webp in /home/bebp2811/public_html/klinik.bebascedera.com/b/upload-file.php on line 105
+[13-Jan-2025 19:05:22 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[15-Jan-2025 11:27:39 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 13:02:43 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 13:03:15 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 13:05:10 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 15:03:08 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 19:26:32 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 19:39:14 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 19:40:44 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 19:42:54 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 19:44:18 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 19:52:06 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 20:03:45 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 20:15:55 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 20:16:54 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 20:20:47 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 20:24:38 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 20:26:58 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 20:27:52 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 20:31:22 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 20:32:12 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 20:34:07 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 20:37:22 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 20:39:55 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 20:42:52 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 20:45:40 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 20:46:31 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[16-Jan-2025 20:49:36 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 16:52:27 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 16:54:03 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 16:55:21 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 17:29:03 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 17:29:47 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 17:46:05 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 17:49:11 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 17:49:11 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 17:54:51 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 17:56:33 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 17:59:18 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 18:26:28 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 18:32:19 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 19:22:31 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 19:30:52 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 19:34:38 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 19:36:25 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 19:36:52 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 19:38:55 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 19:40:20 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 19:42:28 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 19:46:15 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 19:49:49 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 20:27:06 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 20:30:22 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 20:31:38 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 20:33:27 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 20:34:42 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[17-Jan-2025 20:46:50 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[18-Jan-2025 10:20:10 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[18-Jan-2025 10:21:53 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[18-Jan-2025 12:29:03 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[18-Jan-2025 12:40:02 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[18-Jan-2025 13:03:47 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[18-Jan-2025 14:24:06 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[21-Jan-2025 11:32:11 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[21-Jan-2025 14:12:10 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[30-Jan-2025 19:30:41 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[30-Jan-2025 20:42:15 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[30-Jan-2025 20:42:26 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[30-Jan-2025 20:42:34 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[30-Jan-2025 20:58:57 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[30-Jan-2025 20:59:13 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[30-Jan-2025 21:02:02 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[30-Jan-2025 21:03:53 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[30-Jan-2025 21:04:05 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[30-Jan-2025 21:10:14 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[30-Jan-2025 21:32:01 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[30-Jan-2025 22:15:09 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[30-Jan-2025 22:19:52 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[30-Jan-2025 22:20:06 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[31-Jan-2025 08:44:56 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[31-Jan-2025 10:44:42 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'TRIAL' for key 'kode_promo' in /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php:67
+Stack trace:
+#0 /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php(67): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php on line 67
+[31-Jan-2025 10:44:46 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'TRIAL' for key 'kode_promo' in /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php:67
+Stack trace:
+#0 /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php(67): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php on line 67
+[31-Jan-2025 10:44:53 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'TRIAL' for key 'kode_promo' in /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php:67
+Stack trace:
+#0 /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php(67): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php on line 67
+[31-Jan-2025 10:45:19 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'TRIAL' for key 'kode_promo' in /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php:67
+Stack trace:
+#0 /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php(67): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php on line 67
+[31-Jan-2025 10:45:32 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'TRIAL' for key 'kode_promo' in /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php:67
+Stack trace:
+#0 /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php(67): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php on line 67
+[31-Jan-2025 10:45:42 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'TRIAL' for key 'kode_promo' in /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php:67
+Stack trace:
+#0 /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php(67): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php on line 67
+[31-Jan-2025 10:45:45 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'TRIAL' for key 'kode_promo' in /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php:67
+Stack trace:
+#0 /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php(67): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php on line 67
+[31-Jan-2025 10:45:54 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'TRIAL' for key 'kode_promo' in /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php:67
+Stack trace:
+#0 /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php(67): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php on line 67
+[31-Jan-2025 10:46:45 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'TRIAL' for key 'kode_promo' in /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php:67
+Stack trace:
+#0 /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php(67): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php on line 67
+[31-Jan-2025 10:50:49 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[31-Jan-2025 10:50:52 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[31-Jan-2025 10:53:06 Asia/Jakarta] WhatsApp API returned HTTP code 500
+[31-Jan-2025 10:53:06 Asia/Jakarta] Pesan WhatsApp gagal dikirim.
+[31-Jan-2025 10:53:29 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[31-Jan-2025 10:54:34 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[31-Jan-2025 10:54:47 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[31-Jan-2025 10:55:19 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[31-Jan-2025 10:55:34 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[31-Jan-2025 10:55:39 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[31-Jan-2025 10:56:39 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[31-Jan-2025 10:56:44 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[31-Jan-2025 10:58:16 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[31-Jan-2025 11:01:01 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[31-Jan-2025 11:01:16 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[31-Jan-2025 11:01:25 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[31-Jan-2025 11:01:27 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[31-Jan-2025 11:01:34 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[31-Jan-2025 11:01:47 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[31-Jan-2025 11:01:48 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[31-Jan-2025 11:02:03 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[31-Jan-2025 11:02:18 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[31-Jan-2025 11:02:21 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[31-Jan-2025 11:58:01 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'TRIAL' for key 'kode_promo' in /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php:67
+Stack trace:
+#0 /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php(67): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/bebp2811/public_html/klinik.bebascedera.com/b/coupon-add.php on line 67
+[31-Jan-2025 13:45:21 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[31-Jan-2025 15:20:21 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[31-Jan-2025 15:20:22 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[31-Jan-2025 15:33:02 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[31-Jan-2025 15:33:07 Asia/Jakarta] WhatsApp API returned HTTP code 500
+[31-Jan-2025 15:33:07 Asia/Jakarta] Pesan WhatsApp gagal dikirim.
+[31-Jan-2025 15:34:43 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[31-Jan-2025 15:34:43 Asia/Jakarta] Gagal mengirim email: SMTP Error: The following recipients failed: noreply@bebascedera.com: No Such User Here
+
+[31-Jan-2025 15:34:57 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[31-Jan-2025 15:34:57 Asia/Jakarta] Gagal mengirim email: SMTP Error: The following recipients failed: noreply@bebascedera.com: No Such User Here
+
+[31-Jan-2025 15:35:56 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 176
+[31-Jan-2025 15:35:56 Asia/Jakarta] Gagal mengirim email: SMTP Error: The following recipients failed: noreply@bebascedera.com: No Such User Here
+
+[01-Feb-2025 04:52:33 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'tanggal_booking' in 'field list' in /home/bebp2811/public_html/klinik.bebascedera.com/b/booking-process.php:244
+Stack trace:
+#0 /home/bebp2811/public_html/klinik.bebascedera.com/b/booking-process.php(244): mysqli->prepare()
+#1 {main}
+  thrown in /home/bebp2811/public_html/klinik.bebascedera.com/b/booking-process.php on line 244
+[01-Feb-2025 04:52:39 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'tanggal_booking' in 'field list' in /home/bebp2811/public_html/klinik.bebascedera.com/b/booking-process.php:244
+Stack trace:
+#0 /home/bebp2811/public_html/klinik.bebascedera.com/b/booking-process.php(244): mysqli->prepare()
+#1 {main}
+  thrown in /home/bebp2811/public_html/klinik.bebascedera.com/b/booking-process.php on line 244
+[01-Feb-2025 04:55:18 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[01-Feb-2025 04:55:19 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[01-Feb-2025 07:44:43 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[01-Feb-2025 07:53:37 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[01-Feb-2025 08:29:15 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[01-Feb-2025 08:41:03 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[01-Feb-2025 08:42:09 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[01-Feb-2025 08:42:51 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 185
+[01-Feb-2025 08:45:05 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[01-Feb-2025 08:45:52 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[01-Feb-2025 08:49:00 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[01-Feb-2025 09:55:12 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[01-Feb-2025 10:04:00 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[01-Feb-2025 10:04:01 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[01-Feb-2025 11:48:21 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[01-Feb-2025 11:48:43 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[01-Feb-2025 11:51:05 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 185
+[01-Feb-2025 11:51:27 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 185
+[01-Feb-2025 11:51:43 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 185
+[01-Feb-2025 11:54:15 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[01-Feb-2025 11:57:06 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[01-Feb-2025 11:57:08 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[01-Feb-2025 11:58:58 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[01-Feb-2025 11:59:15 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 185
+[01-Feb-2025 12:00:29 Asia/Jakarta] Gagal mengirim email: Invalid address:  (to): 
+[01-Feb-2025 12:00:30 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[01-Feb-2025 12:23:10 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[01-Feb-2025 12:23:38 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[01-Feb-2025 12:24:13 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 220
+[01-Feb-2025 12:24:25 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 220
+[01-Feb-2025 12:26:39 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[01-Feb-2025 12:27:02 Asia/Jakarta] Pesan WhatsApp berhasil dikirim.
+[01-Feb-2025 12:28:15 Asia/Jakarta] PHP Warning:  Undefined variable $statusNoted in /home/bebp2811/public_html/klinik.bebascedera.com/b/update-status.php on line 220

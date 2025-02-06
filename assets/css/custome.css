@@ -1,0 +1,169 @@
+/* Style Halaman Checkout booking-add.php*/
+.is-invalid {
+	border: 1px solid red;
+	background-color: #ffe6e6;
+}
+
+.reload-icon {
+    transition: transform 0.2s ease-in-out;
+}
+.reload-icon:hover {
+    transform: rotate(90deg);
+    color: #2563eb; /* Warna sedikit lebih gelap saat hover */
+}
+
+.section-title {
+	font-size: 1rem;
+	font-weight: 600;
+	margin-bottom: 0.5rem;
+}
+.section-border {
+	border-bottom: 2px solid;
+	margin-bottom: 1.5rem;
+}
+.section-border.blue {
+	border-color: #3b82f6;
+}
+.section-border.green {
+	border-color: #10b981;
+}
+.section-border.orange {
+	border-color: #f97316;
+}
+.section-border.red {
+	border-color: #ef4444;
+}
+.grid {
+	display: grid;
+	gap: 1rem;
+}
+.grid-2 {
+	grid-template-columns: repeat(2, 1fr);
+}
+.grid-6 {
+	grid-template-columns: repeat(6, 1fr);
+}
+
+.btn {
+	background-color: #ef4444;
+	color: #ffffff;
+	padding: 0.75rem 1.5rem;
+	display: inline-flex;
+	align-items: center;
+	gap: 0.5rem;
+}
+.summary {
+	background-color: #f3f4f6;
+	padding: 1rem;
+	border-radius: 0.5rem;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	width: 80%; /* Adjusted width for symmetry */
+}
+.summary-title {
+	font-size: 1rem;
+	font-weight: 600;
+	margin-bottom: 0.5rem;
+}
+.summary-amount {
+	font-size: 2rem;
+	font-weight: bold;
+}
+.summary-details {
+	margin-top: 1.5rem;
+}
+.summary-details p {
+	margin: 0.25rem 0;
+}
+.summary-details p.mt-4 {
+	margin-top: 1rem;
+}
+.flex {
+	display: flex;
+	align-items: center;
+}
+.ml-4 {
+	margin-left: 1rem; /* Added margin-left for spacing */
+}
+
+.ml-6 {
+	margin-left: 2rem; /* Added margin-left for spacing */
+}
+
+.ml-8 {
+	margin-left: 4rem; /* Added margin-left for spacing */
+}
+
+
+/* Responsif untuk tampilan mobile */
+@media (max-width: 768px) {
+.grid {
+	display: flex;
+	flex-direction: column;
+}
+
+.grid-2, .grid-6 {
+	grid-template-columns: 1fr; /* Menyusun semua elemen secara vertikal */
+}
+
+.summary {
+	width: 100%; /* Pastikan lebar elemen penuh pada layar kecil */
+	margin: 0 auto;
+}
+
+.summary-details {
+	margin-left: 0;
+}
+
+.form-group {
+	width: 100%;
+}
+
+.row {
+	flex-direction: column;
+}
+
+.col-md-6 {
+	width: 100%;
+	margin-bottom: 1rem;
+}
+
+button, select, input, textarea {
+	width: 100%;
+}
+
+.btn-xs {
+	width: 20%; /* Tombol memenuhi lebar elemen induknya */
+	padding: 12px; /* Padding lebih besar untuk area klik */
+	font-size: 16px; /* Ukuran font lebih proporsional */
+	border-radius: 18px; /* Sudut melengkung agar lebih modern */
+	text-align: center; /* Pusatkan teks */
+}
+
+.input-group {
+	flex-wrap: wrap; /* Agar elemen di dalamnya tidak terpotong */
+}
+
+@media (min-width: 768px) {
+.row.align-items-center {
+	display: flex;
+	gap: 1rem;
+}
+.row.align-items-center .col-md-6 {
+	flex: 1; /* Set kolom menjadi fleksibel agar lebar seimbang */
+}
+
+.ml-8 {
+	margin-left: 0rem; /* Added margin-left for spacing */
+}
+}
+
+@media (max-width: 768px) {
+.row.align-items-center .col-md-6 {
+	width: 100%; /* Tampilkan kolom secara vertikal pada layar kecil */
+}
+
+.ml-8 {
+	margin-left: 0rem; /* Added margin-left for spacing */
+}
+}
+/* End of Style Halaman Checkout booking-add.php*/

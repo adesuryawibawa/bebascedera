@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /index.php
+Disallow: /su/
+Disallow: /admin/
+Disallow: /public/
